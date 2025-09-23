@@ -198,10 +198,10 @@ int main(void)
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"Prashanth K\n");
+	Lcd_string(&lcd,"DHARSHENI.K \n");
 
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223230152\n");
+	Lcd_string(&lcd,"212224040073\n");
 }
 ```
 
